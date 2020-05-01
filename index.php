@@ -24,9 +24,30 @@ require_once("config.php");
 //echo json_encode($search);
 
 //Carrega umusuario com login e senha
-$usuario = new Usuario();
-$usuario->login('jose', '01234567890');
-echo $usuario;
+//$usuario = new Usuario();
+//$usuario->login('jose', '01234567890');
+//echo $usuario;
 
+
+//insert aluno sem passar parametros construct
+//$aluno = new Usuario();
+//$aluno->setDeslogin('aluno');
+//$aluno->setDessenha('@lun0');
+
+//$aluno->insert();
+
+//echo $aluno;
+
+
+//insert aluno passando parametros construct
+//$aluno = new Usuario('aluno2','@lun02');
+//$aluno->insert();
+//echo $aluno;
+
+//realizar update
+$usuario = new Usuario();
+$usuario->loadbyId(8);
+$usuario->update('professor','hj5%jh');
+echo $usuario;
 
 ?>

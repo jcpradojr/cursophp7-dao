@@ -39,13 +39,8 @@
 		 
 		 if(count($results)>0){
 			 
-			 //echo 'results:'.var_dump($results).'<br>';
-			 $row = $results[0];
-			 
-			 $this->setIdusuario($row['id']);
-			 $this->setDeslogin($row['deslogin']);
-			 $this->setDessenha($row['dessenha']);
-			 $this->setDtcadastro(new DateTime($row['dtcadastro']));
+			 //echo 'results:'.var_dump($results[0]).'<br>';
+			  $this->setData($results[0]);
 			 
 		 }
 		 
@@ -85,12 +80,7 @@
 		 if(count($results)>0){
 			 
 			 //echo 'results:'.var_dump($results).'<br>';
-			 $row = $results[0];
-			 
-			 $this->setIdusuario($row['id']);
-			 $this->setDeslogin($row['deslogin']);
-			 $this->setDessenha($row['dessenha']);
-			 $this->setDtcadastro(new DateTime($row['dtcadastro']));
+			 $this->setData($results[0]);
 			 
 		 }else{
 			 
@@ -101,6 +91,63 @@
 		 
 	 }
 	 
+	 public function setData($data){
+		 $this->setIdusuario($data['id']);
+		 $this->setDeslogin($data['deslogin']);
+		 $this->setDessenha($data['dessenha']);
+		 $this->setDtcadastro(new DateTime($data['dtcadastro']));
+		 
+		 
+	 }
+	 
+	 
+	 public function insert(){
+		 $sql = new Sql();
+		 
+		 //chamar procedure 
+		 $results = $sql->select("CALL sp_usuarios_insert(:LOGIN, :PASSWORD)", array(
+			":LOGIN"=>$this->getDeslogin(),
+			":PASSWORD"=>$this->getDessenha()
+		 
+		 ));
+		 
+		 if(count($results)>0){
+			 
+			  $this->setData($results[0]);
+			 
+		 }
+		 
+		 
+		 
+		 
+		 
+		 $sql->query("");
+		 
+	 }
+	 
+	 
+	 public function update($login, $password){
+		 
+		 $this->setDeslogin($login);
+		 $this->setDessenha($password);
+		 
+		 $sql = new Sql();
+		 $sql->query("UPDATE php_tb_usuarios SET deslogin = :LOGIN, dessenha = :PASSWORD WHERE id = :ID", array(
+			":LOGIN"=>$this->getDeslogin(),
+			":PASSWORD"=>$this->getDessenha(),
+			":ID"=>$this->getIdusuario()
+			
+		 
+		 ));
+		 
+		 
+	 }
+	 
+	 
+	 public function __construct($login = "", $password = ""){
+		 $this->setDeslogin($login);
+		 $this->setDessenha($password);
+	 }
 	 
 	 
 	 public function __toString(){
