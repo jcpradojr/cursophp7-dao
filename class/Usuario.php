@@ -99,6 +99,14 @@
 		 
 		 
 	 }
+	  public function limpaUsuario(){
+		 $this->setIdusuario(0);
+		 $this->setDeslogin('');
+		 $this->setDessenha('');
+		 $this->setDtcadastro(new DateTime());
+		 
+		 
+	 }
 	 
 	 
 	 public function insert(){
@@ -140,6 +148,15 @@
 		 
 		 ));
 		 
+		 
+	 }
+	 public function delete(){
+		 
+		 $sql = new Sql();
+		 $sql->query("DELETE FROM php_tb_usuarios WHERE id = :ID", array(
+			":ID"=>$this->getIdusuario()
+		 ));
+		$this->limpaUsuario();
 		 
 	 }
 	 
