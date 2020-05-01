@@ -37,3 +37,141 @@ Stack trace:
 #0 {main}
   thrown in /home/saudec60/public_html/cursos/php/dao/index.php on line 5
 [01-May-2020 20:30:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:01:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:01:31 UTC] PHP Parse error:  syntax error, unexpected 'setIdusuario' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/saudec60/public_html/cursos/php/dao/class/Usuario.php on line 12
+[01-May-2020 21:02:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:02:35 UTC] PHP Parse error:  syntax error, unexpected 'setIdusuario' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/saudec60/public_html/cursos/php/dao/class/Usuario.php on line 12
+[01-May-2020 21:02:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:02:35 UTC] PHP Parse error:  syntax error, unexpected 'setIdusuario' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/saudec60/public_html/cursos/php/dao/class/Usuario.php on line 12
+[01-May-2020 21:03:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:03:05 UTC] PHP Parse error:  syntax error, unexpected 'setIdusuario' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/saudec60/public_html/cursos/php/dao/class/Usuario.php on line 12
+[01-May-2020 21:03:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:03:39 UTC] PHP Parse error:  syntax error, unexpected 'setIdusuario' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/saudec60/public_html/cursos/php/dao/class/Usuario.php on line 12
+[01-May-2020 21:04:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:04:01 UTC] PHP Parse error:  syntax error, unexpected 'setDeslogin' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/saudec60/public_html/cursos/php/dao/class/Usuario.php on line 18
+[01-May-2020 21:04:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:04:02 UTC] PHP Parse error:  syntax error, unexpected 'setDeslogin' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/saudec60/public_html/cursos/php/dao/class/Usuario.php on line 18
+[01-May-2020 21:04:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:04:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Sql::setParam(), 2 passed in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 10 and exactly 3 expected in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:14
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(':ID', 3)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(3)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 14
+[01-May-2020 21:06:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:06:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Sql::setParam(), 2 passed in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 10 and exactly 3 expected in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:14
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(':ID', 3)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(3)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 14
+[01-May-2020 21:06:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:06:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Sql::setParam(), 2 passed in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 10 and exactly 3 expected in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:14
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(':ID', 3)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(3)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 14
+[01-May-2020 21:08:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:08:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Sql::setParam(), 2 passed in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 10 and exactly 3 expected in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:14
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(':ID', 3)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(3)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 14
+[01-May-2020 21:12:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:15
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(Object(PDOStatement), ':ID', 3)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(3)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 15
+[01-May-2020 21:14:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:18:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:18:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:15
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(Object(PDOStatement), ':ID', 3)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(3)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 15
+[01-May-2020 21:19:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:15
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(Object(PDOStatement), ':ID', 1)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(1)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 15
+[01-May-2020 21:20:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:15
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(Object(PDOStatement), ':ID', 1)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(1)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 15
+[01-May-2020 21:20:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:20:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:15
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(Object(PDOStatement), ':ID', 1)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(1)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 15
+[01-May-2020 21:21:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:21:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:15
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(Object(PDOStatement), ':ID', 1)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(1)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 15
+[01-May-2020 21:29:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:15
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(Object(PDOStatement), ':ID', 1)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(1)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 15
+[01-May-2020 21:29:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:29:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/saudec60/public_html/cursos/php/dao/class/Sql.php:15
+Stack trace:
+#0 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(10): Sql->setParam(Object(PDOStatement), ':ID', 1)
+#1 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(20): Sql->setParams(Object(PDOStatement), Array)
+#2 /home/saudec60/public_html/cursos/php/dao/class/Sql.php(26): Sql->query('SELECT * FROM p...', Array)
+#3 /home/saudec60/public_html/cursos/php/dao/class/Usuario.php(37): Sql->select('SELECT * FROM p...', Array)
+#4 /home/saudec60/public_html/cursos/php/dao/index.php(11): Usuario->loadById(1)
+#5 {main}
+  thrown in /home/saudec60/public_html/cursos/php/dao/class/Sql.php on line 15
+[01-May-2020 21:36:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:36:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-May-2020 21:37:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so (libMagickWand.so.5: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php73/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
